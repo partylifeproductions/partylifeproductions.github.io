@@ -221,11 +221,12 @@ div.container.sidebar-sticky p.lead {
 }
 
 .theme-base-black .content a {
-  color: #FF00D4;
+  color: #fff;
+  text-decoration: underline;
 }
 
 .theme-base-black .related-posts li a:hover {
-  color: #fff;
+  color: #FF00D4;
 }
 
 /* Red */
