@@ -99,7 +99,7 @@ p.lead {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: underline;
+  font-weight: bold;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
