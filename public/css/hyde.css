@@ -31,10 +31,10 @@
  * Update the foundational and global aspects of the page.
  */
 @import url(https://fonts.googleapis.com/css?family=Codystar);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Raleway|Ubuntu|Titillium+Web|Oxygen|Hind|Muli);
+@import url(https://fonts.googleapis.com/css?family=Roboto|Raleway|Ubuntu|Titillium+Web|Oxygen|Hind|Muli);
 
 html {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -112,7 +112,7 @@ p.lead {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  font-family: 'Open Sans', "Abril Fatface", serif;
+  font-family: 'Roboto', "Abril Fatface", serif;
   display: block;
   line-height: 1.75;
 }
