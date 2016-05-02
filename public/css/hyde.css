@@ -30,7 +30,8 @@
  *
  * Update the foundational and global aspects of the page.
  */
-@import url(https://fonts.googleapis.com/css?family=Codystar|Open Sans);
+@import url(https://fonts.googleapis.com/css?family=Codystar);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto|Raleway|Ubuntu|Titillium+Web|Oxygen|Hind|Muli);
 
 html {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
