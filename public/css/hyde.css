@@ -86,7 +86,8 @@ p.lead {
   margin-top: 0;
   font-family: 'Codystar', "Abril Fatface", serif;
   font-size: 2rem;
-  margin: auto;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* Sidebar nav */
