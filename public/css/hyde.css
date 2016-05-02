@@ -77,14 +77,14 @@ p.lead {
 
 .sidebar a {
   color: #fff;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 /* Custom shiat */
 
 .sidebar a:hover, .sidebar a:focus {
     text-decoration: none;
-    font-weight: 800;
+    font-weight: 2000;
 }
 
 /* About section */
