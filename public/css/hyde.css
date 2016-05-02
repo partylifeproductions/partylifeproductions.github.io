@@ -130,7 +130,7 @@ a.sidebar-nav-item:focus {
     position: absolute;
     right:  1rem;
     bottom: 1rem;
-    left:   1rem;
+    left:   0rem;
   }
 }
 
@@ -161,6 +161,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.container {
+    padding-right: 1rem;
+}
 
 /*
  * Reverse layout
