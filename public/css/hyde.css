@@ -56,7 +56,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 1rem 1rem;
+  padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -67,7 +67,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
+    right:  0rem;
     bottom: 1rem;
     left:   1rem;
   }
@@ -161,6 +161,9 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.container {
+    padding-left: 0rem;
+}
 
 /*
  * Reverse layout
