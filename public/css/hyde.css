@@ -30,6 +30,7 @@
  *
  * Update the foundational and global aspects of the page.
  */
+@import url(https://fonts.googleapis.com/css?family=Cherry+Cream+Soda|Bubblegum+Sans|Fontdiner+Swanky|Fredericka+the+Great|Press+Start+2P|Sansita+One|Unica+One|Frijole|Lemon|Unkempt|Monoton|UnifrakturMaguntia|Crushed|Creepster|Codystar|Monofett|Sarina|Trade+Winds|Diplomata+SC);
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -77,6 +78,7 @@ p.lead {
 
 .sidebar a {
   color: #fff;
+  font-family: "Cherry Cream Soda";
 }
 
 /* About section */
