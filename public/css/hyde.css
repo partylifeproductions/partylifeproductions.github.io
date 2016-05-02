@@ -67,7 +67,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: left;
+    text-align: center;
   }
 }
 
@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  0rem;
+    right:  1rem;
     bottom: 1rem;
     left:   1rem;
   }
@@ -161,9 +161,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.container {
-    padding-right: 0rem;
-}
 
 /*
  * Reverse layout
