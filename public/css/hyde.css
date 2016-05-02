@@ -30,10 +30,10 @@
  *
  * Update the foundational and global aspects of the page.
  */
-@import url(https://fonts.googleapis.com/css?family=Codystar);
+@import url(https://fonts.googleapis.com/css?family=Codystar|Open Sans);
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -106,7 +106,7 @@ p.lead {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  font-family: 'Codystar', "Abril Fatface", serif;
+  font-family: 'Open Sans', "Abril Fatface", serif;
   display: block;
   line-height: 1.75;
 }
