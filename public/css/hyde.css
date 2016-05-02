@@ -215,12 +215,11 @@ div.container.sidebar-sticky p.lead {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-.theme-base-10 .sidebar {
+.theme-base-black .sidebar {
   background-color: #ac4142;
 }
-.theme-base-10 .content a,
-.theme-base-10 .related-posts li a:hover {
-  color: #FF00D4;
+.theme-base-black .content a, .theme-base-black .related-posts li a:hover {
+    color: #FF00D4;
 }
 
 /* Red */
