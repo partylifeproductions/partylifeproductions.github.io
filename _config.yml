@@ -12,10 +12,12 @@ tagline:          'A working group'
 description:      'A brazen collaboration'
 url:              http://partylife.productions
 baseurl:          /
+contact:          info@partylife.productions
 
 author:
   name:           'Colin Snyder'
   url:            http://www.colingramsnyder.com
+  contact:        colin@partylife.productions
 
 paginate:         5
 
