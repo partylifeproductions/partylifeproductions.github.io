@@ -46,13 +46,6 @@ html {
   }
 }
 
-
-/* Custom shiat */
-
-a:hover, a:focus {
-    font-weight: bold;
-}
-
 /*
  * Sidebar
  *
@@ -84,6 +77,12 @@ p.lead {
 
 .sidebar a {
   color: #fff;
+}
+
+/* Custom shiat */
+
+.sidebar a:hover, .sidebar a:focus {
+    font-weight: bold;
 }
 
 /* About section */
