@@ -12,4 +12,4 @@ Some fun facts about the team:
 * Bell's got back
 * Colin's a saucy lad
 
-Have questions or suggestions? Feel free to [email Colin](mailto://colin@partylife.productions)
+Have questions or suggestions? Feel free to [email Colin](mailto://colin@partylife.productions).
