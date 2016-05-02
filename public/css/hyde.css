@@ -222,6 +222,10 @@ div.container.sidebar-sticky p.lead {
     color: #FF00D4;
 }
 
+.theme-base-black div.content.container div.page p a {
+   color: #FF00D4;
+}
+
 /* Red */
 .theme-base-08 .sidebar {
   background-color: #ac4142;
