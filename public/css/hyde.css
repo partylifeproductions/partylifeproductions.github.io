@@ -215,17 +215,11 @@ div.container.sidebar-sticky p.lead {
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
-/* Black/Pink */
-.theme-base-black .sidebar {
-  background-color: #000;
+.theme-base-10 .sidebar {
+  background-color: #ac4142;
 }
-
-.theme-base-black .content a {
-  color: #FF00D4;
-  text-decoration: underline;
-}
-
-.theme-base-black .related-posts li a:hover {
+.theme-base-10 .content a,
+.theme-base-10 .related-posts li a:hover {
   color: #FF00D4;
 }
 
