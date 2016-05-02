@@ -60,6 +60,11 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
+div .sidebar {
+  text-align: center;
+}
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -67,7 +72,7 @@ html {
     left: 0;
     bottom: 0;
     width: 18rem;
-    text-align: center;
+    text-align: left;
   }
 }
 
