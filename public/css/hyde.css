@@ -47,10 +47,6 @@ html {
   }
 }
 
-a {
-  color: #FF00D4;
-}
-
 /*
  * Sidebar
  *
@@ -225,7 +221,7 @@ div.container.sidebar-sticky p.lead {
 }
 .theme-base-black .content a,
 .theme-base-black .related-posts li a:hover {
-  color: #000;
+  color: #FF00D4;
 }
 
 /* Red */
