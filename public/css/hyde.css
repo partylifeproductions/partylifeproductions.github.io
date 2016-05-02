@@ -219,7 +219,11 @@ div.container.sidebar-sticky p.lead {
 .theme-base-black .sidebar {
   background-color: #000;
 }
-.theme-base-black .content a,
+
+.theme-base-black .content a {
+  color: #FF00D4;
+}
+
 .theme-base-black .related-posts li a:hover {
   color: #FF00D4;
 }
